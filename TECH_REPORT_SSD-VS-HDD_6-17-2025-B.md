@@ -2,5 +2,4 @@ Although SSD's are perfect for multiple operations at once its more effective to
 
 Hard Drives are a lot better for writing data while Solid State drives are better for reading. Writing too much data with an SSD can cause it to lose data or damage the drive
 
-[https://www.youtube.com/watch?v=1u1w8vp1bCs
-](https://www.youtube.com/watch?v=r3Jy5dHOj3g)
+https://www.youtube.com/watch?v=1u1w8vp1bCs
